@@ -85,6 +85,4 @@ No output or intermediate files are generated.
 
 ---
 
-## Disclaimer
 
-This repository was created solely for assignment and evaluation purposes as part of the AffinityAnswers take-home assessment.
